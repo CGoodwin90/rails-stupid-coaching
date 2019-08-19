@@ -1,3 +1,16 @@
 // Place all the styles related to the questions controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+.button {
+  background-color: blue;
+  color: white;
+}
+
+
+.coach-answer {
+  background-color: yellow;
+  opacity: 0.8;
+  padding: 10px;
+  border-radius: 8px;
+}
